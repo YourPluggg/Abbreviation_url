@@ -1,3 +1,0 @@
-/home/ilya/abbreviated_url/build/CMakeFiles/abbreviated_url.dir
-/home/ilya/abbreviated_url/build/CMakeFiles/edit_cache.dir
-/home/ilya/abbreviated_url/build/CMakeFiles/rebuild_cache.dir
